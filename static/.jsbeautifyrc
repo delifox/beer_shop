@@ -1,0 +1,28 @@
+{
+  "js": {
+    "indent_size": 2,
+    "indent_char": " ",
+    "indent_level": 0,
+    "indent_with_tabs": false,
+    "preserve_newlines": true,
+    "max_preserve_newlines": 2,
+    "jslint_happy": false,
+    "brace_style": "collapse,preserve-inline",
+    "space_before_conditional": true,
+    "keep_array_indentation": true,
+    "break_chained_methods": false
+  },
+  "vue": {
+    "indent_size": 2,
+    "indent_char": " ",
+    "indent_level": 2,
+    "indent_with_tabs": false,
+    "preserve_newlines": true,
+    "max_preserve_newlines": 2,
+    "jslint_happy": false,
+    "brace_style": "collapse,preserve-inline",
+    "space_before_conditional": true,
+    "keep_array_indentation": true,
+    "break_chained_methods": false
+  }
+}
