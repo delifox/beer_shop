@@ -1,17 +1,13 @@
 <template>
-
+  <footer>
+  </footer>
 </template>
 
 <script>
 export default {
-  data() {
-    return {
-      beers: []
-    }
-  }
+  name: 'footer'
 }
 </script>
-
 
 <style lang="scss">
 </style>

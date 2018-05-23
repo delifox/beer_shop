@@ -1,4 +1,5 @@
 export default [
-  require('./task-list'),
-  require('./task-list-item')
+  require('./header'),
+  require('./footer')
+
 ]

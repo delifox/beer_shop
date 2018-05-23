@@ -23,9 +23,9 @@ function route(path, component, children = []) {
 export default new Router({
   routes: [
     route('/', page('index')),
-    route('/profile', page('profile')),
-    route('/registration', page('registration')),
-    route('/calculator', page('calculator'))
-
+    route('/cart', page('cart')),
+    route('/login', page('login')),
+    route('/sign_up', page('sign-up')),
+    route('/beers/:id', page('beer'))
   ]
 })
